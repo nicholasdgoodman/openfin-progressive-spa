@@ -1,0 +1,10 @@
+[
+    { "ticker": "JWKF", "price" : 15.22, "quantity": 2000 },
+    { "ticker": "ACCS", "price" : 10.21, "quantity": 1200 },
+    { "ticker": "OLSS", "price" : 25.72, "quantity": 1200 },
+    { "ticker": "POLR", "price" : 74.23, "quantity": 3125 },
+    { "ticker": "BRTT", "price" : 89.92, "quantity": 1223 },
+    { "ticker": "TRMP", "price" : 46.51, "quantity": 7233 },
+    { "ticker": "BDEN", "price" : 51.02, "quantity": 5644 },
+    { "ticker": "BRSJ", "price" : 19.22, "quantity": 2711 }
+]
